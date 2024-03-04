@@ -8,6 +8,8 @@ perangkat lunak:
 
 *2.Jupyter*
 
+
+
 Nama: **Zahra**
 
 <p align="left">

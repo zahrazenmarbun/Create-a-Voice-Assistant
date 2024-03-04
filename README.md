@@ -4,9 +4,9 @@
 
 Perangkat Lunak :
 
-  **1.Python**
+  *1.Python*
 
- **2.Jupyter**
+ *2.Jupyter*
 
 
 

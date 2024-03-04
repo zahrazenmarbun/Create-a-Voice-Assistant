@@ -3,6 +3,7 @@
 <h3 align="center">Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson</h3>
 
 - Perangkat Lunak :**1.Python**
+  
                    **2.Jupyter**
 
 
